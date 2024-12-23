@@ -1,4 +1,4 @@
-# CS3-340
+# CS-340
 ### How do you write programs that are maintainable, readable, and adaptable?  
 When writing programs, I focus on breaking the code into small, reusable parts that are easy to understand and modify. For example, in Project One, I built a CRUD Python module to handle database interactions. Instead of writing all the database code in one place, I organized it into functions like create, read, update, and delete. This made the code easier to maintain because if I needed to change how a database query worked, I only had to update one function.  
 
